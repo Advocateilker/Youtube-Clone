@@ -19,7 +19,7 @@ This project is a YouTube Clone built with React that replicates some core featu
 - **React Router DOM**: Used for routing within the application.
 - **Axios**: A promise-based HTTP client for API requests.
 - **Context API**: Utilized for state management.
-- **Bootstrap**: Styling and responsive design.
+- **Tailwind**: Styling and responsive design.
 - **React Icons**: Provides various icons used in the app.
 - **Moment.js**: Used for formatting timestamps.
 - **Millify**: Helps format large numbers like view counts.
